@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [AnanasSTM32_PCB.PrjPcb]
+   Generated File[AnanasSTM32.BOM]
+   Generated File[AnanasSTM32.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 21:21:56 On 2016/12/30
